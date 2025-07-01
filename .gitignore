@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# dotenv and secrets
+.env
+.spotify_token_cache
+config.json
+
+# VSCode or JetBrains IDE settings (optional)
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python cache
+.cache
+.cache/
+
+# System files
+*.swp
+*.swo
+
+# Logs (if you later log to file)
+*.log
